@@ -1,0 +1,95 @@
+body {
+  color: rgb(30, 30, 30) ;
+  background-color: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;;
+  font-size: 16px;
+  font-weight: thin;
+  line-height: 20px;
+}
+
+h1 {
+  color: #56257A;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #0095DD;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: thin;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: thin;
+  line-height: 0px;
+}
+
+a {
+  color: rgba(30, 30, 30, 0.3);
+  text-decoration: none;
+  font-weight: thin
+
+ }
+
+a:hover {
+  color: rgba(0, 0, 0, 0.6);
+ }
+
+div {
+  background-color: white;
+  padding: 25px;
+  margin: 12px auto;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 600px;
+ }
+
+#main_pic {
+  border-radius: 999px;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid rgba(10, 10, 10, 0.6);
+}
+
+#main_text {
+  padding: 0px 10px;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center
+}
+
+.img-150 {
+  width: 150px;
+}
+
+.text-padding10 {
+  padding: 0px 10px;
+}
+
+.text-padding20 {
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  padding-left: 0px
+}
+
+.light-shadow {
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);;
+}
+
